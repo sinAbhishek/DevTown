@@ -1,7 +1,7 @@
 
 
 # Deployed link 
-https://dev-nationassignment.netlify.app/
+https://dev-townassignment.netlify.app/
 
 ## Available Scripts
 
