@@ -1,12 +1,7 @@
 
-# Tech stack used
-I have used Reactjs,Redux for managing cart state and prices,Tailwind css and material ui for modal.
-I have manually added 10 books data in data.js file and then mapped through it to display it.
-Then i used redux where i created reducers to add,delete,change quantity of items in the cart.
-App is fully responsive.
 
 # Deployed link 
- https://totalityebookstore.netlify.app/ .
+https://dev-nationassignment.netlify.app/
 
 ## Available Scripts
 
